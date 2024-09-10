@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Bonjour et bienvenue sur mon GitHub !
 
-<!--
-**sarahvar/sarahvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Sarah, une développeuse web passionnée avec une solide expérience en **HTML, CSS, JavaScript** et **React**. Mon parcours m'a permis de travailler sur divers projets allant de la création de pages web dynamiques à la conception d'applications interactives.
 
-Here are some ideas to get you started:
+### 🛠️ Compétences clés :
+- **HTML & CSS** : Création et stylisation de pages web responsives.
+- **JavaScript** : Développement d’interfaces dynamiques et algorithmes avancés.
+- **React** : Conception d'applications web interactives avec **Redux**, gestion des routes avec **React Router**.
+- **API REST & Swagger** : Connexion front-end/back-end et documentation d'APIs.
+- **Débogage & Tests** : Débogage et tests d’applications SaaS, mise en place de tests unitaires et d'intégration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projets récents :
+- **Kasa** : Refonte d'une application de location de logements en **React** avec une gestion améliorée des routes.
+- **Site e-commerce** : Développement dynamique avec **JavaScript** et intégration d’API.
+- **API gastronomique** : Construction d'une API sécurisée avec **Node.js**, **Express**, et **MongoDB**.
+
+Je suis actuellement à la recherche de nouvelles opportunités pour mettre en pratique mes compétences et contribuer à des projets innovants. N'hésitez pas à consulter mes projets et à me contacter pour toute collaboration ou opportunité professionnelle.
+
+Merci de visiter mon profil !
+
